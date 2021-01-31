@@ -1,0 +1,119 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	/*font-family: 'Germania One', cursive;*/
+	/*background-image: url("images/background7.png")*/
+
+}
+a {
+	color: black;
+}
+
+h1 {
+	color: #fff;
+	text-align: center;
+	padding: 3% 15%;
+	font-size: 3rem;
+}
+h2 {
+	text-align: center;
+	padding: 3% 15%;
+	font-size: 3rem;
+}
+
+
+h3, h4 {
+	font-size: 1.5rem;
+	text-align: center;
+}
+hr {
+	width: 40%;
+	margin: 3% auto;
+}
+/*Navbar */
+.navbar-brand {
+	font-family: 'Germania One', cursive;
+	font-size: 2rem;
+	padding-left: 2%;
+	letter-spacing: 2px;
+}
+.nav-link {
+	font-size: 20px;
+}
+
+.after-nav {
+	background-image: url("images/background7.png")
+}
+/*Slideshow*/
+
+#slideshow {
+	margin: 0 10%;
+	background-color: transparent;
+	padding-bottom: 7%;
+}
+.carousel-inner {
+	text-align: center;
+}
+.slideshow-image {
+	width: 30%;
+}
+
+/*Collection*/
+.collection-column {
+	padding: 0 5%;
+}
+.card {
+	width: 16rem;
+	/*margin: 0 3%;*/
+}
+.card-body {
+	text-align: center;
+}
+/*About Artist*/
+#about {
+	margin: 0 5%;
+}
+.artist-image {
+	width: 65%;
+	border-radius: 10%;
+}
+
+/* Contact Me */
+#contact {
+	text-align: center;
+}
+.contact-button {
+	margin: 2% auto 5%;
+}
+.name {
+	font-size: 2rem;
+	padding-bottom: 15px;
+}
+
+
+/*.footer */
+.footer {
+	text-align: center;
+	padding: 2% 0 1%;
+}
+.footer-link {
+	color: #cdd0cb;
+	font-size: 25px;
+}
+.copyright {
+	color: #EAF6F6;	
+	font-size: 0.9rem;
+}
+
+/*Contact us page*/
+.contact-page {
+	background-image: url("images/background7.png")
+}
+.container {
+	width: 70%;
+	text-align: center;
+	padding-bottom: 10%;
+}
+
+.form-floating {
+	margin: 3% 0;
+}
